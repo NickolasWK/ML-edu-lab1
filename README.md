@@ -1,2 +1,2 @@
-# ML-edu-lab1
-Laboratory work №1 on ML Research Track
+# Лабораторная работа №1 по треку ML
+Автор: Капин Н. В.
